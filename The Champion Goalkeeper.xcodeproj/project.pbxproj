@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 77;
+	objectVersion = 70;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -16,11 +16,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		EE542E2B2CB8040700733397 /* The Champion Goalkeeper */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "The Champion Goalkeeper";
-			sourceTree = "<group>";
-		};
+		EE542E2B2CB8040700733397 /* The Champion Goalkeeper */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = "The Champion Goalkeeper"; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +91,7 @@
 				};
 			};
 			buildConfigurationList = EE542E242CB8040700733397 /* Build configuration list for PBXProject "The Champion Goalkeeper" */;
+			compatibilityVersion = "Xcode 15.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -106,7 +103,6 @@
 			packageReferences = (
 				EE52AC1A2CBD434800370D3F /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
 			);
-			preferredProjectObjectVersion = 77;
 			productRefGroup = EE542E2A2CB8040700733397 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
